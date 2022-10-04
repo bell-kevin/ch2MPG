@@ -1,5 +1,15 @@
 # ch2MPG
-A car holds 16 gallons of gas and can travel 312 miles before refueling. Write a program that calculates the number of miles per gallon that this car gets. Display a header, the miles traveled, the gallons used, and the result, which will have decimal places. Take a screenshot of the running program displaying the result.  Here is an example using different values: (NOTE: the numbers displayed here are not the correct solution for the code you are going to write -- this is for style only. Your code needs to calculate MPG for a car that holds 16 gallons of gas and travels 312 miles.)  Ch2 MPG  Take a screenshot of the results using the numbers given above -- 16 gallons of gas, 312 miles). Run it again with different numbers and take a screenshot of that result.     NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.  Submission: Submit a single zipped folder containing all of the specified screenshots AND the root folder for the project.
+A car holds 16 gallons of gas and can travel 312 miles before refueling. Write a program that calculates the number of miles per gallon that this car gets. Display a header, the miles traveled, the gallons used, and the result, which will have decimal places. Take a screenshot of the running program displaying the result.  Here is an example using different values: 
+
+(NOTE: the numbers displayed here are not the correct solution for the code you are going to write -- this is for style only. Your code needs to calculate MPG for a car that holds 16 gallons of gas and travels 312 miles.)  Ch2 MPG  
+
+Take a screenshot of the results using the numbers given above -- 16 gallons of gas, 312 miles). Run it again with different numbers and take a screenshot of that result.     
+
+NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.  Submission: Submit a single zipped folder containing all of the specified screenshots AND the root folder for the project.
+
+![1](https://github.com/bell-kevin/ch2MPG/blob/main/saveMPG.PNG)
+
+![2](https://github.com/bell-kevin/ch2MPG/blob/main/saveMPG2.PNG)
 
 == We're Using GitHub Under Protest ==
 
